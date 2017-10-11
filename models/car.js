@@ -1,0 +1,18 @@
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
+
+// create ninja Schema & model
+const CarSchema = new Schema({
+    "Ref" : String,
+    "make" : String,
+    "model" : String,
+    "FOB" : Number,
+    "VehicleWidth": Number,
+    "VehicleLength": Number,
+    "VehicleHeight": Number,
+    "Volume" : Number
+});
+
+const Car = mongoose.model('cars', CarSchema);
+
+module.exports = Car;

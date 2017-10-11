@@ -1,0 +1,244 @@
+country,name,FreightPerM3
+Zambia,Dar Es Salaam,80
+Zambia,Durban,67
+Zambia,Maputo,85
+D.R. Congo,Dar Es Salaam,80
+D.R. Congo,Durban,67
+D.R. Congo,Mombasa,80
+D.R. Congo,Matadi,200
+Mozambique,Dar Es Salaam,80
+Mozambique,Durban,67
+Mozambique,Maputo,85
+Zimbabwe,Dar Es Salaam,80
+Zimbabwe,Durban,67
+Zimbabwe,Maputo,85
+Uganda,Dar Es Salaam,80
+Uganda,Mombasa,80
+Tanzania,Dar Es Salaam,80
+Tanzania,Mombasa,80
+Malawi,Dar Es Salaam,80
+Malawi,Durban,67
+Burundi,Dar Es Salaam,80
+Burundi,Mombasa,80
+Lesotho,Durban,67
+South Sudan,Mombasa,80
+Botswana ,Durban,67
+Kenya,Mombasa,80
+South Africa,Durban,67
+Djibouti,Djibouti,111
+Ethiopia,Djibouti,111
+Angola,Durban,67
+Angola,Luanda,280
+Benin,Cotonou,198
+Cameroon,Douala,197
+Gabon,Libreville,221
+Ghana,Tema,208
+Guinea,Conakry,198
+Madagascar,Tamatave,181
+Mali,Abidjan,201
+Mali,Conakry,198
+Mali,Douala,197
+Namibia,Durban,67
+Namibia,Walvis Bay,
+Nigeria ,Lagos,213
+Rwanda,Dar Es Salaam,80
+Rwanda,Mombasa,80
+Sierra Leone,Conakry,198
+Sierra Leone,Free Town,
+Sudan,Mombasa,80
+Central African Republic,Mombasa,80
+Central African Republic,Douala,197
+Chad,Douala,197
+Equatorial Guinea,Bata,
+Gambia,Dakar,198
+Liberia,Monrovia,
+Republic of Guinea-Bissau,Conakry,198
+Republic of Guinea-Bissau,Dakar,198
+Republic of the Congo,Dar Es Salaam,80
+Republic of the Congo,Mombasa,80
+Swaziland,Durban,67
+Swaziland,Maputo,85
+Tunisia,Tunis,165
+Anguilla,Philipsburg,176
+Anguilla,Road Bay,
+Anguilla,The valley,
+Antigua and Barbuda,St. John's,174
+Armenia,Poti,
+Aruba,Aruba,173
+Australia,Adelaide,101
+Australia,Brisbane,100
+Australia,Fremantle,111
+Australia,Kembla,101
+Australia,Melbourne,101
+Azerbaijan,Poti,
+Bahamas,Freeport,154
+Bahamas,Nassau,145
+Bahrain,Bahrain,66
+Bangladesh,Chittagong,67
+Bangladesh,Mongla,73
+Barbados,Bridgetown,150
+Belgium ,Antwerpen,86
+Bermuda,Hamilton,
+Bolivia,Iquique,
+Bolivia,Iquique,
+Bolivia,Iquique,
+Bolivia,Iquique,
+British Virgin Islands,Basseterre,160
+Brunei Darussalam,Muara,
+Cambodia,Sihanoukville,
+Canada,Halifax,163
+Canada,New Westminster,89
+Canada,Vancouver,111
+Cayman Islands,Georgetown/Cayman,163
+Chile,Iquique,
+Chile,Iquique,
+Chile,Iquique,
+Chile,Iquique,
+Chile,Arica,
+Chile,VALPARAISO,
+Denmark,Fredericia,110
+Dominican Republic,Santo Domingo,173
+Egypt,Alexandria,104
+Fiji,Lautoka,111
+Fiji,Suva,140
+Finland,hanko,117
+France,Le Havre,83
+Georgia,Batumi,
+Georgia,Poti,
+Germany,Bremerhaven,86
+Greece,Piraeus,100
+Greece,Thessaloniki,100
+Grenada,ST. George,165
+Guatemala,Quetzal,173
+Guyana,Georgetown/Guyana,134
+Haiti,Port-Au-Prince,173
+Hong Kong,Hongkong,
+Hong Kong,Hongkong,
+India,Mumbai,137
+Indonesia,Jakarta,78
+Indonesia,Jakarta,89
+Ireland,Dublin,118
+Jamaica,Kingston,114
+Jordan,Aqaba,120
+Kazakhstan,Bishkek,
+Kiribati,Tarawa,278
+Korea,Busan,45
+Korea,Kunsan,
+Korea,Kwangyang,
+Kyrgyzstan,Bishkek,
+Lao PDR,Laemchabang,
+Libya,Benghazi,
+Libya,Misratah,
+Luxembourg,Antwerpen,86
+Malaysia,Port Kelang,
+Malaysia,Port Kelang,
+Malaysia,Tanjung Pelepas,
+Malaysia,Tanjung Pelepas,
+Maldives,Colombo,
+Maldives,Male,
+Malta,Valletta,
+Marshall Islands,Majuro,148
+Mauritius ,Port-Louis,86
+Mauritius ,Port-Louis,89
+Mauritius ,Port-Louis,100
+Micronesia,Chuuk,140
+Micronesia,Chuuk,140
+Micronesia,Kosrae Island,138
+Micronesia,Pohnpei,140
+Micronesia,Yap,136
+Mongol,Ulaanbaatar,
+Mongol,Zamiin-Uud,
+Montserrat,Philipsburg,176
+Myanmar,Yangon,54
+Nauru,Nauru,
+Netherlands,Amsterdam,83
+Netherlands,Rotterdam,86
+Netherlands Antilles,Aruba,173
+Netherlands Antilles,Curacao,173
+Netherlands Antilles,Philipsburg,176
+New Caledonia,Noumea,193
+New Zealand,Auckland,
+New Zealand,Lyttelton,
+New Zealand,Nelson,
+New Zealand,Wellington,
+Niue,Auckland,
+Norway,Drammen,118
+Oman,Sohar,68
+Pakistan,Karachi,117
+Palau,Koror,136
+Panama,Balboa,143
+Panama,Manzanillo,100
+Papua New Guinea,Kavieng,
+Papua New Guinea,Kimbe,
+Papua New Guinea,Lae,125
+Papua New Guinea,Madang,
+Papua New Guinea,Port Moresby,125
+Papua New Guinea,Wewak,
+Paraguay,Iquique,
+Paraguay,Iquique,
+Paraguay,Iquique,
+Paraguay,Iquique,
+Peru,Matarani,
+Poland,Gdynia,135
+Quatar,Doha,74
+Russian Federation,Vladivostok,55
+Saint Kitts And Nevis,Basseterre,160
+Samoa,Apia,162
+Samoa,Apia,165
+Samoa,Apia,
+Saudi Arabia,Dammam,67
+Senegal ,Dakar,198
+Senegal ,Monrovia,
+Singapore,Singapore,
+Singapore,Singapore,
+Solomon Islands,Honiara,209
+Somalia,Mombasa,80
+Spain,Barcelona,83
+Sri Lanka,Colombo,75
+Sri Lanka,Hambatota,67
+St. Lucia,Port Castries,156
+St. Maarten,Philipsburg,176
+St. Vincent,Kingstown,156
+Suriname,Paramaribo,134
+Sweden,Gotenburg,111
+Taiwan,Taipei,
+Thailand,Laem Chabang,
+Thailand,Laem Chabang,
+Togo,Lome,198
+Tonga,Nukualofa,182
+Trinidad And Tobago,Port of Spain,139
+Turkey,Derince,96
+Turkey,Mersin,
+Turks And Caicos Islands,Grand Turk,
+Tuvalu,Funafuti,538
+UAE,Abu Dhabi,66
+UAE,Dubai,78
+UAE,Jebel Ali,66
+UAE,Sharjah,78
+Ukraine,Illichivsk,140
+Ukraine,Ukraina,
+United Kingdom,Bristol,102
+United Kingdom,Liverpool,122
+United Kingdom,Newcastle,83
+U.S.A,Guam,112
+Vanuatu,Port Villa,226
+Vietnam,Hai Phong,
+Vietnam,Da Nang,
+Vietnam,Cam Ranh,
+Vietnam,Saigon ,
+Netherlands,Amsterdam,88
+Belgium ,Antwerpen,110
+Luxembourg,Antwerpen,110
+Jordan,Aqaba,144
+Spain,Barcelona,88
+Cayman Islands,Georgetown/Cayman,171
+Germany,Bremerhaven,110
+Djibouti,Djibouti,135
+Ethiopia,Djibouti,135
+France,Le Havre,88
+Tonga,Nukualofa,
+Tonga,Nukualofa,
+Netherlands,Rotterdam,110
+Pakistan,Karachi,118
+United Kingdom,Newcastle,86
+Taiwan,Taipei,
