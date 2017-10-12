@@ -1,9 +1,6 @@
-# rest-api-playlist
-Course files for the REST API tutorial series on The Net Ninja Youtube channel
+# Introduction
+API for cars app
 
 # How to use
-Each branch corresponds to a specific lesson in the playlist. For example the lesson-10 branch will contain the code at the END of lesson 10. 
+Clone this repo. Then run npm install. Then run: npm start
 
-Not every lesson has a corresponding branch (e.g. where the lesson added nothing else to the code).
-
-mongoimport -h ds143030.mlab.com:43030 -d carfromjapanmg -c ports -u anhdt@rikkeisoft.com -p Thuhuyen192 --file freights.csv --type csv --headerline 
