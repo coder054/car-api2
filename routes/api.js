@@ -42,6 +42,7 @@ router.get('/cars', (req, res, next) => {
         var x = result[1].map((val, key) => {
           var finalPrice = FreightPerM3 * val.Volume + val.FOB;
           return {
+            "_id": val._id,
             "Ref": val.Ref,
             "make": val.make,
             "model": val.model,
@@ -85,7 +86,7 @@ router.post('/cars', (req, res, next) => {
     res.send("Please provide enough info")
     return;
   }
-
+  
   Car.create(req.body).then(car => {
     res.send(car);
   }).catch(next);
