@@ -1,7 +1,6 @@
 # Introduction
 My answer for The test for Javascript developer of Car From Japan Company
-Here the requirement:
-
+- Here the requirement:
 Hi,
 We have little excerise for you for our applicant screening.
 There is no time limit. Just be creative, 
